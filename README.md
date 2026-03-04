@@ -13,3 +13,11 @@ This repository was completely upgraded from traditional CNN models to a state-o
 ```bash
 pip install ultralytics opencv-python
 python detect_indian_traffic.py
+
+## 📸 Real-World Demos
+Here is the Zero-Shot model handling complex Indian road conditions:
+
+![Indian Traffic Demo](assets/download (4).png)
+<br>
+![Indian Traffic Demo](assets/download (3).png)
+<br>
